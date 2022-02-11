@@ -4,7 +4,7 @@ We are an organization/developer team who just got an assignment from a company 
 
 ### Technologies
 * ERD-module - Whimsical Link: https://whimsical.com/u04-alpha-er-model-E6GRnmCE6Lo4py8VDV6pTh – Was used to make a logical model
-* Trello Board Link: https://trello.com/b/xcT3cGFE/agiledb-doe21 – Was used for planning
+* Trello Board Link: https://trello.com/b/xcT3cGFE/agiledb-doe21 – Was used for planning our sprints and keeping track of tasks
 * PgAdmin – To make a physical model
 * Google Docs – Was used for documentation
 * SQL
